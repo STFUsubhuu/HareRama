@@ -1,0 +1,28 @@
+body{
+  background-color: black;
+  text-align: center;
+}
+
+.changeCover{
+  background-image: url("./processing.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.lastcover{
+  background: black;
+}
+img{
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
+
+button{
+  margin-top: 10px;
+}
+
+.hidden{
+  visibility: hidden;
+}
